@@ -1,4 +1,5 @@
 [
+<<<<<<< HEAD
   {
     "id": 1,
     "puesto": "Desarrollador Android",
@@ -104,4 +105,21 @@
     "ciudad": "Valencia",
     "salario": 31000
   }
+=======
+  { "id": 1, "puesto": "Desarrollador Android", "empresa": "TechValencia", "ciudad": "Valencia", "salario": 30000 },
+  { "id": 2, "puesto": "Desarrollador Backend Java", "empresa": "DataMadrid", "ciudad": "Madrid", "salario": 34000 },
+  { "id": 3, "puesto": "Programador Multiplataforma", "empresa": "SoftAlicante", "ciudad": "Alicante", "salario": 28000 },
+  { "id": 4, "puesto": "Desarrollador Kotlin", "empresa": "AppLevante", "ciudad": "Valencia", "salario": 32000 },
+  { "id": 5, "puesto": "Ingeniero Cloud", "empresa": "NubeCentral", "ciudad": "Madrid", "salario": 36000 },
+  { "id": 6, "puesto": "Desarrollador Frontend", "empresa": "CostaWeb", "ciudad": "Alicante", "salario": 27500 },
+  { "id": 7, "puesto": "Analista de Datos", "empresa": "MetricasVLC", "ciudad": "Valencia", "salario": 29000 },
+  { "id": 8, "puesto": "Desarrollador Fullstack", "empresa": "IberiaSoft", "ciudad": "Madrid", "salario": 35000 },
+  { "id": 9, "puesto": "Técnico Ciberseguridad", "empresa": "SegurTuria", "ciudad": "Valencia", "salario": 31500 },
+  { "id": 10, "puesto": "Administrador de Sistemas", "empresa": "RedMediterraneo", "ciudad": "Alicante", "salario": 29500 },
+  { "id": 11, "puesto": "Arquitecto Software", "empresa": "CapitalTech", "ciudad": "Madrid", "salario": 38000 },
+  { "id": 12, "puesto": "Desarrollador iOS", "empresa": "MobileVLC", "ciudad": "Valencia", "salario": 33000 },
+  { "id": 13, "puesto": "Diseñador UI/UX", "empresa": "EstudioSur", "ciudad": "Alicante", "salario": 26500 },
+  { "id": 14, "puesto": "Desarrollador Python", "empresa": "CodeCenter", "ciudad": "Madrid", "salario": 33500 },
+  { "id": 15, "puesto": "Consultor ERP", "empresa": "GestionEste", "ciudad": "Valencia", "salario": 31000 }
+>>>>>>> develop
 ]
