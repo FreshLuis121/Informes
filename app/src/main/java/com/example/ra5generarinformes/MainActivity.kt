@@ -17,13 +17,6 @@ import androidx.appcompat.app.AppCompatActivity
 import org.json.JSONArray
 import kotlin.math.min
 
-data class Oferta(
-    val id: Int,
-    val puesto: String,
-    val empresa: String,
-    val ciudad: String,
-    val salario: Int
-)
 class MainActivity : AppCompatActivity() {
 
     private lateinit var spinnerCiudad: Spinner
