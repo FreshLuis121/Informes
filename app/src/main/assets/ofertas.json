@@ -1,0 +1,17 @@
+[
+  { "id": 1, "titulo": "Desarrollador Android Kotlin", "empresa": "AppTech", "sector": "Desarrollo Móvil", "modalidad": "Remoto", "salario": 32000 },
+  { "id": 2, "titulo": "Desarrollador iOS Swift", "empresa": "MobileNova", "sector": "Desarrollo Móvil", "modalidad": "Híbrido", "salario": 34000 },
+  { "id": 3, "titulo": "Programador Multiplataforma", "empresa": "SoftValencia", "sector": "Desarrollo Móvil", "modalidad": "Presencial", "salario": 28000 },
+  { "id": 4, "titulo": "Flutter Developer", "empresa": "CloudApps", "sector": "Desarrollo Móvil", "modalidad": "Remoto", "salario": 31000 },
+  { "id": 5, "titulo": "Backend Java Spring Boot", "empresa": "DataCore", "sector": "Backend", "modalidad": "Remoto", "salario": 35000 },
+  { "id": 6, "titulo": "Desarrollador Node.js", "empresa": "WebFlow", "sector": "Backend", "modalidad": "Híbrido", "salario": 30000 },
+  { "id": 7, "titulo": "Ingeniero Python APIs", "empresa": "IberiaTech", "sector": "Backend", "modalidad": "Remoto", "salario": 36000 },
+  { "id": 8, "titulo": "Administrador Bases de Datos", "empresa": "SegurData", "sector": "Backend", "modalidad": "Presencial", "salario": 29000 },
+  { "id": 9, "titulo": "Frontend React", "empresa": "PixelStudio", "sector": "Frontend", "modalidad": "Remoto", "salario": 29500 },
+  { "id": 10, "titulo": "Desarrollador Angular", "empresa": "NetSolutions", "sector": "Frontend", "modalidad": "Híbrido", "salario": 28500 },
+  { "id": 11, "titulo": "Diseñador UI/UX Web", "empresa": "CreativaLab", "sector": "Frontend", "modalidad": "Presencial", "salario": 26000 },
+  { "id": 12, "titulo": "Fullstack TypeScript", "empresa": "DevHub", "sector": "Frontend", "modalidad": "Remoto", "salario": 33000 },
+  { "id": 13, "titulo": "Analista SOC", "empresa": "CyberShield", "sector": "Ciberseguridad", "modalidad": "Presencial", "salario": 31500 },
+  { "id": 14, "titulo": "Pentester Junior", "empresa": "RedTeam ES", "sector": "Ciberseguridad", "modalidad": "Híbrido", "salario": 34500 },
+  { "id": 15, "titulo": "Auditor Seguridad Cloud", "empresa": "SafeNet", "sector": "Ciberseguridad", "modalidad": "Remoto", "salario": 38000 }
+]
